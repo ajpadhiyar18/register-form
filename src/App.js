@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="text-4xl font-bold text-blue-600"> Form In React</h1>
+      <h1 className="text-4xl font-bold text-blue-600"> Rgistration Form</h1>
       <form onSubmit={handleSubmit}>
         <label htmlFor="firstname">First Name</label>
         <input
